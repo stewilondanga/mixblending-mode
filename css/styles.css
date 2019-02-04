@@ -113,11 +113,11 @@ body {
   font-style: italic;
 }
 
-/*.container1 p {
+.container1 p {
   color: #fff;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
