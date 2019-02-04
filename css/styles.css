@@ -63,10 +63,11 @@ body {
   position: absolute;
 }
 
-/*.container1 {
+.container1 {
   background: #000;
 }
-.container1 .cl1 {
+
+/*.container1 .cl1 {
   background: #FF0000;
   mix-blend-mode: screen;
 }
