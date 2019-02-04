@@ -56,14 +56,14 @@ body {
   position: relative;
 }
 
-/*.cl {
+.cl {
   width: 200px;
   height: 200px;
   border-radius: 50%;
   position: absolute;
 }
 
-.container1 {
+/*.container1 {
   background: #000;
 }
 .container1 .cl1 {
