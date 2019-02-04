@@ -101,12 +101,13 @@ body {
   mix-blend-mode: multiply;
 }
 
-/*.text {
+.text {
   position: absolute;
   top: 40px;
   left: 80px;
 }
-.text p {
+
+/*.text p {
   font-family: "Montserrat";
   font-size: 1.6em;
   font-style: italic;
