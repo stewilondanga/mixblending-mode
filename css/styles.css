@@ -26,15 +26,14 @@ body {
   height: 1.5em;
 }
 
-/*
-
 .container {
   width: 50%;
   height: 100%;
   display: flex;
   position: relative;
 }
-.container .cl1 {
+
+/*.container .cl1 {
   top: 0;
   left: 50px;
 }
