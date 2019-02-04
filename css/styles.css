@@ -82,10 +82,11 @@ body {
   mix-blend-mode: screen;
 }
 
-/*.container2 {
+.container2 {
   background: #fff;
 }
-.container2 .cl1 {
+
+/*.container2 .cl1 {
   background: #00FFFF;
   mix-blend-mode: multiply;
 }
