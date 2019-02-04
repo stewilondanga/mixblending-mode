@@ -91,11 +91,12 @@ body {
   mix-blend-mode: multiply;
 }
 
-/*.container2 .cl2 {
+.container2 .cl2 {
   background: #FF00FF;
   mix-blend-mode: multiply;
 }
-.container2 .cl3 {
+
+/*.container2 .cl3 {
   background: #FFFF00;
   mix-blend-mode: multiply;
 }
