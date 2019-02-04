@@ -67,11 +67,12 @@ body {
   background: #000;
 }
 
-/*.container1 .cl1 {
+.container1 .cl1 {
   background: #FF0000;
   mix-blend-mode: screen;
 }
-.container1 .cl2 {
+
+/*.container1 .cl2 {
   background: #00FF00;
   mix-blend-mode: screen;
 }
