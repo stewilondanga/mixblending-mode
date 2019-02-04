@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -9,7 +9,7 @@ body {
 .my_social {
   position: absolute;
   top: 25px;
-  left: 25px;
+  left: 855px;
 }
 
 .my_social a {
@@ -19,6 +19,99 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+}
+
+.container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+.container .cl1 {
+  top: 0;
+  left: 50px;
+}
+.container .cl2 {
+  top: 100px;
+  left: 100px;
+}
+.container .cl3 {
+  top: 100px;
+  left: 0;
+}
+
+.additive,
+.subtractive {
+  margin: auto;
+  min-width: 300px;
+  min-height: 300px;
+  position: relative;
+}
+
+.cl {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.container1 {
+  background: #000;
+}
+.container1 .cl1 {
+  background: #FF0000;
+  mix-blend-mode: screen;
+}
+.container1 .cl2 {
+  background: #00FF00;
+  mix-blend-mode: screen;
+}
+.container1 .cl3 {
+  background: #0000FF;
+  mix-blend-mode: screen;
+}
+
+.container2 {
+  background: #fff;
+}
+.container2 .cl1 {
+  background: #00FFFF;
+  mix-blend-mode: multiply;
+}
+.container2 .cl2 {
+  background: #FF00FF;
+  mix-blend-mode: multiply;
+}
+.container2 .cl3 {
+  background: #FFFF00;
+  mix-blend-mode: multiply;
+}
+
+.text {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+}
+.text p {
+  font-family: "Montserrat";
+  font-size: 1.6em;
+  font-style: italic;
+}
+
+.container1 p {
+  color: #fff;
 }
 
 .containers {
