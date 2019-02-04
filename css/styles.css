@@ -38,11 +38,12 @@ body {
   left: 50px;
 }
 
-/*.container .cl2 {
+.container .cl2 {
   top: 100px;
   left: 100px;
 }
-.container .cl3 {
+
+/*.container .cl3 {
   top: 100px;
   left: 0;
 }
