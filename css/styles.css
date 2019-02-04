@@ -96,12 +96,12 @@ body {
   mix-blend-mode: multiply;
 }
 
-/*.container2 .cl3 {
+.container2 .cl3 {
   background: #FFFF00;
   mix-blend-mode: multiply;
 }
 
-.text {
+/*.text {
   position: absolute;
   top: 40px;
   left: 80px;
